@@ -1,0 +1,21 @@
+img,
+video,
+audio,
+iframe,
+table,
+form {
+    width: 100%;
+    /* IE */
+    max-width: 100%;
+    /* FF, Safari, Chrome */
+}
+
+
+/*Makes images and videos expand to fill up the entire container */
+
+
+/* //// LAYOUT STYLES //// */
+
+.row {
+    margin-bottom: 20px;
+}
